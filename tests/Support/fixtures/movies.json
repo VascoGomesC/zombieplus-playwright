@@ -1,0 +1,82 @@
+{
+  "28_days_later": {
+    "title": "28 Days Later",
+    "overview": "A man wakes up from a coma to find London deserted and overrun by rage-infected humans.",
+    "company": "DNA Films",
+    "release_year": 2002,
+    "feature": "Fast-moving infected, post-apocalyptic survival",
+    "cover": "https://image.tmdb.org/t/p/original/28dayslater.jpg"
+  },
+  "dawn_of_the_dead": {
+    "title": "Dawn of the Dead",
+    "overview": "A group of survivors take refuge in a shopping mall during a zombie apocalypse.",
+    "company": "United Film Distribution Company",
+    "release_year": 1978,
+    "feature": "Classic Romero-style zombies, social commentary",
+    "cover": "https://image.tmdb.org/t/p/original/dawnofthedead1978.jpg"
+  },
+  "shaun_of_the_dead": {
+    "title": "Shaun of the Dead",
+    "overview": "A lazy Londoner must step up to save his friends and family during a zombie outbreak.",
+    "company": "StudioCanal",
+    "release_year": 2004,
+    "feature": "Comedy-horror blend, British humor",
+    "cover": "https://image.tmdb.org/t/p/original/shaunofthedead.jpg"
+  },
+  "train_to_busan": {
+    "title": "Train to Busan",
+    "overview": "Passengers struggle to survive a zombie outbreak on a speeding train in South Korea.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "feature": "Emotional storytelling, fast-paced zombies",
+    "cover": "https://image.tmdb.org/t/p/original/traintobusan.jpg"
+  },
+  "create": {
+    "title": "World War Z",
+    "overview": "A UN investigator races against time to stop a global zombie pandemic.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "feature": "Global scale outbreak, action-oriented",
+    "cover": "https://image.tmdb.org/t/p/original/worldwarz.jpg"
+  },
+  "resident_evil": {
+    "title": "Resident Evil",
+    "overview": "A commando team must shut down an underground lab after a viral outbreak turns people into zombies.",
+    "company": "Constantin Film",
+    "release_year": 2002,
+    "feature": "Based on video game series, sci-fi action",
+    "cover": "https://image.tmdb.org/t/p/original/residentevil2002.jpg"
+  },
+  "zombieland": {
+    "title": "Zombieland",
+    "overview": "A group of survivors form an unlikely team while navigating a post-apocalyptic America.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "feature": "Comedy-action, survival rules theme",
+    "cover": "https://image.tmdb.org/t/p/original/zombieland.jpg"
+  },
+  "night_of_the_living_dead": {
+    "title": "Night of the Living Dead",
+    "overview": "Strangers trapped in a farmhouse must fight off hordes of the undead.",
+    "company": "Image Ten",
+    "release_year": 1968,
+    "feature": "Origin of modern zombie genre, black-and-white classic",
+    "cover": "https://image.tmdb.org/t/p/original/nightofthelivingdead1968.jpg"
+  },
+  "the_girl_with_all_the_gifts": {
+    "title": "The Girl with All the Gifts",
+    "overview": "A young girl with special abilities may hold the key to humanity’s survival in a fungal zombie apocalypse.",
+    "company": "Altitude Film Entertainment",
+    "release_year": 2016,
+    "feature": "Unique twist on infection, emotional depth",
+    "cover": "https://image.tmdb.org/t/p/original/thegirlwithallthegifts.jpg"
+  },
+  "army_of_the_dead": {
+    "title": "Army of the Dead",
+    "overview": "A group of mercenaries attempt a heist in zombie-infested Las Vegas.",
+    "company": "Netflix",
+    "release_year": 2021,
+    "feature": "Action-heist hybrid, smart zombies",
+    "cover": "https://image.tmdb.org/t/p/original/armyofthedead.jpg"
+  }
+}
